@@ -222,6 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ahmad Maulidan**
 - GitHub: [@AhmdMaulidan](https://github.com/AhmdMaulidan)
 - Email: ahmd.maulidanngmail.com
+- instagram: @lienidan
 
 ## 🤝 Contributing
 
